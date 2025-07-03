@@ -57,7 +57,7 @@
 
 - Một số badge sẽ **cập nhật sau vài giờ** hoặc thậm chí vài ngày.
 - Truy cập link sau để xem danh sách badge bạn đã có:  
-👉 [https://github.com/users/<your-username>/achievements](https://github.com/users/<your-username>/achievements)
+👉 [https://github.com/users/your-username/achievements](https://github.com/users/tunguyenn99/achievements)
 
 ---
 
