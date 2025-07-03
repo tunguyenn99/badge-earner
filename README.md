@@ -20,6 +20,11 @@ A miscellaneous repo to earn some badges
 
 <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width=200>
 
+3. YOLO
+- Add 1 collaborator, ở repo này mình add `@duong-eth`
+- Tạo 1 commit mới, chia branch như trên
+- Add reviewer là collaborator vừa được add
+- Tạo PR và merge luôn
 
-3. 
 4. 
+5. 
