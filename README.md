@@ -64,7 +64,6 @@
 ## 6. 🔥 Đóng góp thêm?  
 
 Nếu bạn phát hiện mẹo kiếm badge mới, hãy tạo PR vào repo này nhé!  
-Cộng đồng badge-hunters luôn chào đón đóng góp mới.
 
 ---
 
