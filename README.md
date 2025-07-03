@@ -26,5 +26,12 @@ A miscellaneous repo to earn some badges
 - Add reviewer là collaborator vừa được add
 - Tạo PR và merge luôn
 
-4. 
+<img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width=200>
+
+4. Starstruck
+- Tạo 1 repo và được 16 stars cho repo đó
+
+<img src="https://github.githubassets.com/assets/starstruck-default-b6610abad518.png" width=200>
+
 5. 
+6. 
